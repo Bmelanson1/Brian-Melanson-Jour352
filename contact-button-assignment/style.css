@@ -19,3 +19,11 @@ Color 5 - #FFE548
     button:hover {
         background-color:#FFB20F;
 }
+
+h1 {
+    font-family: 'Abrigal Fatface', cursive;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+}
