@@ -7,10 +7,11 @@ Color 4 - #FFB20F
 Color 5 - #FFE548
 */
 
- body {
-        background-color:#FFB20F; 
+body {
+    background-color:#FFB20F; 
 }
 
-  button {
-        background-color:#FF4B3E;
+button {
+    background-color:#FF4B3E;
+    color:#FFE548;
 }
