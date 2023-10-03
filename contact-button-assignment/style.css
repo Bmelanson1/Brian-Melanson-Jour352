@@ -7,15 +7,15 @@ Color 4 - #FFB20F
 Color 5 - #FFE548
 */
 
-body {
-    background-color:#582707; 
+    body {
+        background-color:#582707; 
 }
 
-button {
-    background-color:#FF4B3E;
+    button {
+        background-color:#FF4B3E;
     color:#FFE548;
 }
 
-button:gover {
-    background-color:#FFB20F;
+    button:hover {
+        background-color:#FFB20F;
 }
