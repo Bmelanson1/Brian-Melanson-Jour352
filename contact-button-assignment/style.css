@@ -8,5 +8,9 @@ Color 5 - #FFE548
 */
 
  body {
-        background-color:#FFB20F;
-    }
+        background-color:#FFB20F; 
+}
+
+  button {
+        background-color:#FF4B3E;
+}
