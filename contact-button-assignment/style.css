@@ -9,6 +9,7 @@ Color 5 - #FFE548
 
     body {
         background-color:#582707; 
+        text-align: center;
 }
 
     button {
@@ -33,4 +34,7 @@ h2 {
 button {
     font-family: 'Poppins', sans-serif;
     font-size: 30px;
+    width: 200px;
+    padding: 10px;
+    margin-top: 50px;
 }
