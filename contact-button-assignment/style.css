@@ -22,9 +22,15 @@ Color 5 - #FFE548
 
 h1 {
     font-family: 'Abril_Fatface variant0', cursive;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 h2 {
     font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+button {
+    font-family: 'Poppins', sans-serif;
+    font-size: 80px;
 }
