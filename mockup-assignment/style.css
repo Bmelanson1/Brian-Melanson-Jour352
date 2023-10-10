@@ -10,12 +10,12 @@ img {
     width:325px;
     border-radius:500px;
     float:left;
-    margin-left:0px 0px 0px 200px;
+    margin:0px 0px 0px 200px;
     
 }
 
 h1 {
-    
+    font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
@@ -23,19 +23,19 @@ h2 {
 }
 
 h3 {
-    margin-left:0px 0px 0px 200px;
+    margin:0px 0px 0px 200px;
 }
 
 p {
-   margin-left:0px 0px 0px 200px; 
+    margin:0px 0px 0px 200px; 
 }
 
 button {
-    
+    margin:0px 0px 0px 200px;
 }
 
 button:hover {
-    
+    margin:0px 0px 0px 200px;
 }
 
 #button-container {
