@@ -18,8 +18,8 @@ img {
 
 h1 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 70px;
-    color: black;
+    font-size: 35px;
+    color: white;
     text-transform: uppercase;
     letter-spacing: 2px;
     margin:0px 200px 0px 0px;
@@ -27,8 +27,8 @@ h1 {
 
 h2 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 40px;
-    color: black;
+    font-size: 20px;
+    color: white;
     margin:0px 200px 0px 0px;
 }
 
@@ -47,12 +47,14 @@ button {
     letter-spacing: 2px;
     color: white;
     background-color: #343c24;
-    padding: 10px 20px;
+    border-radius:10px;
+    padding:10px 20px 10px 20px;
     text-align:center;
+    border:none;
 }
 
 button:hover {
-  
+    background-color: #343c24;
 }
 
 #button-container {
