@@ -28,7 +28,7 @@ h1 {
 h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
-    color: black
+    color: black;
     margin:0px 0px 0px 250px;
 }
 
@@ -37,7 +37,7 @@ h3 {
 }
 
 p {
-    margin:50px 0px 0px 200px
+    margin:50px 0px 0px 200px;
 }
 
 button {
@@ -48,13 +48,13 @@ button {
     color: white;
     background-color: #343c24;
     padding: 10px 20px;
-    float: middle;
+    text-align:center;
 }
 
 button:hover {
   
 }
 
-#button-container {
-    text-align: middle;
+button container {
+    text-align:center;
 }
