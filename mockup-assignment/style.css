@@ -22,14 +22,14 @@ h1 {
     color: black;
     text-transform: uppercase;
     letter-spacing: 2px;
-    margin:0px 0px 0px 200px;
+    margin:50px 0px 0px 200px;
 }
 
 h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
-    color: white;
-    margin:0px 0px 0px 200px;
+    color: black
+    margin:50px 0px 0px 200px;
 }
 
 h3 {
