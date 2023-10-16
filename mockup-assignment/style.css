@@ -2,7 +2,7 @@ body {
     margin: 0px 0px 40px 0px;
 }
 
-topper {
+#topper {
     background-color: #343c24;
     height:380px;
 }
@@ -55,6 +55,6 @@ button:hover {
   
 }
 
-button container {
+#button-container {
     text-align:center;
 }
