@@ -1,8 +1,9 @@
 body {
-    
+    margin: 0px 0px 40px 0px;
 }
 
 #topper {
+    background-color: #343c24
     height:380px;
 }
 
@@ -10,29 +11,43 @@ img {
     width:325px;
     border-radius:500px;
     float:left;
-    margin:0px 0px 0px 200px;
+    margin:200px 0px 0px 0px;
     border:5px solid black;
     
 }
 
 h1 {
     font-family: 'Montserrat', sans-serif;
-}
-
-h2 {
-    
-}
-
-h3 {
+    font-size: 70px;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
     margin:0px 0px 0px 200px;
 }
 
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color: white;
+    margin:0px 0px 0px 200px;
+}
+
+h3 {
+    margin:200px 0px 0px 200px;
+}
+
 p {
-    margin:0px 0px 0px 200px; 
+    margin:200px 0px 0px 200px
 }
 
 button {
-    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: white;
+    background-color: #343c24;
+    padding: 10px 20px;
 }
 
 button:hover {
