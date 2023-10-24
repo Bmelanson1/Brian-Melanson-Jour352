@@ -1,3 +1,30 @@
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+*/
+
+@media {
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
 img { 
     width:50%;
+}
+
+#footer {
+    position:fixed;
+    bottom:0px;
+    background-color:black;
+    color:white;
+}
+    
+}
+
+@media (min-width:576px) {
+    
+h1 {
+    font-size:100px;
+}
+    
 }
