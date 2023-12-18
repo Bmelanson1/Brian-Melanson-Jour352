@@ -1,0 +1,138 @@
+@media {
+
+img {
+    width:100%;
+    height:auto;
+    background-size:cover;
+    background-position: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+    
+#topper {
+    margin: 0px 10px 0px 10px;
+}
+
+
+#caption {
+    width:100%;
+    margin:auto;
+    font-size:14px;
+    text-align: center;
+}
+    
+#titles {
+    width:100%;
+    font-weight:bold;
+    text-align: center;
+}
+    
+.drop {
+    font-size:32px;
+    padding: 0px 5px 0px 0px;
+    line-height: 1em;
+    margin-top: 80px;
+}
+
+#content {
+    width:100%;
+    margin:auto;
+}
+
+.grey {
+    color:grey;
+}   
+    
+h1 {
+   font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+}
+    
+h2 {
+   font-family: 'Bebas Neue', sans-serif; 
+    font-size: 32.5px;
+}
+    
+p {
+  font-family: 'Oswald', sans-serif;      
+}
+    
+ul {
+  font-family: 'Oswald', sans-serif;      
+ }
+    
+#img2 {
+    color:grey;
+    font-size:14px;
+}  
+    
+.pullquote {
+    color:#0C2340;
+    /*background-color:#0C2340;*/
+    padding: 10px 10px 10px 10px;
+    margin: 30px 0px 30px 0px;
+    border-top: 5px solid #0C2340;
+    border-bottom: 5px solid #0C2340;  
+}
+   
+    .quote {
+       font-family: 'Bebas Neue', sans-serif;
+        font-size: 30px;  
+        text-align: center;
+    } 
+    
+    .attribution {
+        font-family: 'Bebas Neue', sans-serif;
+        font-size: 20px;
+    }
+    
+    .quotemark {
+        font-size:100px;
+        font-weight:bold;
+        float:left;
+        line-height:80px; 
+    }
+    
+}
+
+@media (min-width:576px) {
+    
+img {
+    width:100%;
+    height:auto;
+}
+    
+#content {
+width:90%;
+}
+
+h1 {
+    font-size: 60px;
+}
+    
+h2 {
+    font-size: 48.75px;
+    }
+  
+#img2 {
+    width:100%;
+    height:auto;
+}
+    
+}
+
+@media (min-width:768px) {
+    
+#content {
+    width:60%;
+}
+  
+h1 {
+    font-size: 80px;
+}
+    
+h2 {
+    font-size: 65px;
+    }
+    
+}
