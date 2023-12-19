@@ -1,6 +1,6 @@
 @media {
-
-img {
+    
+    img {
     width:100%;
     height:auto;
     background-size:cover;
@@ -64,7 +64,30 @@ ul {
 #img2 {
     color:grey;
     font-size:14px;
+    padding-top:30px;
+    padding-bottom: 30px;
 }  
+    
+#img3 {
+    color:grey;
+    font-size:14px;
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+    
+#img4 {
+    color:grey;
+    font-size:14px;
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+    
+#img5 {
+    color:grey;
+    font-size:14px;
+    padding-top:30px;
+    padding-bottom: 30px;
+}
     
 .pullquote {
     color:#0C2340;
@@ -84,6 +107,7 @@ ul {
     .attribution {
         font-family: 'Bebas Neue', sans-serif;
         font-size: 20px;
+        text-align: center;
     }
     
     .quotemark {
@@ -91,6 +115,27 @@ ul {
         font-weight:bold;
         float:left;
         line-height:80px; 
+    }
+  
+.pullquote2 {
+    color:#0C2340;
+    /*background-color:#0C2340;*/
+    padding: 10px 10px 10px 10px;
+    margin: 30px 0px 30px 0px;
+    border-top: 5px solid #0C2340;
+    border-bottom: 5px solid #0C2340;  
+}
+   
+    .quote2 {
+       font-family: 'Bebas Neue', sans-serif;
+        font-size: 30px;  
+        text-align: center;
+    } 
+    
+    .attribution2 {
+        font-family: 'Bebas Neue', sans-serif;
+        font-size: 20px;
+        text-align: center;
     }
     
 }
@@ -115,6 +160,21 @@ h2 {
     }
   
 #img2 {
+    width:100%;
+    height:auto;
+}
+    
+#img3 {
+    width:100%;
+    height:auto;
+}
+    
+#img4 {
+    width:100%;
+    height:auto;
+}
+    
+#img4 {
     width:100%;
     height:auto;
 }
